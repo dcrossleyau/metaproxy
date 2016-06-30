@@ -1,6 +1,9 @@
-Metaproxy is copyright 2005-2015 Index Data
+Upstream-Name: Metaproxy
+Source: http://indexdata.com/metaproxy/
 
-License: GPLv2
+Copyright: Copyright (C) 2005-2016 Index Data
+
+License: GPL-2+
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
